@@ -13,16 +13,19 @@
   <br>
   <img src="https://profile-counter.glitch.me/Ulises2024/count.svg" alt="Profile Views">
   
+  
   <a href="https://github.com/Ulises2024?tab=followers">
     <img src="https://img.shields.io/github/followers/Ulises2024.svg?style=social&label=Followers" alt="GitHub Followers">
   </a>
   <br>
   <br>
   <div align="center">
-    <a href="https://git.io/typing-svg" height="120">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=50&lines=Hey!+It's+Ulises2024!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user" alt="Typing SVG">
+    <br>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=70&width=800&height=120&lines=Hey!+It's+Ulises2024!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user" alt="Typing SVG">
     </a>
   </div>
+
 
   <h2>Fun Facts About Me</h2>
   <ul>
@@ -30,7 +33,6 @@
     <li><strong>Aspiring web and app developer 👩🏻‍💻</strong></li>
     <li><strong>Passionate about science 🔬</strong></li>
     <li><strong>Football enthusiast ⚽</strong></li>
-    <li><strong>Founder of <a href="https://github.com/CodingContributorsLair/">CodingContributorsLair Organization</a></strong></li>
   </ul>
 
   <h2>GitHub Stats</h2>
@@ -48,34 +50,10 @@
 
   <h2>Notable Public Repositories</h2>
   <ul>
-    <li><strong><a href="https://github.com/AvidCoder101/AvidCoder101">Profile Repo - AvidCoder101</a></strong></li>
-    <li><strong><a href="https://github.com/AvidCoder101/BMICalculator">BMI Calculator</a></strong></li>
-    <li><strong><a href="https://github.com/AvidCoder101/To-do-list">To-Do List App</a></strong></li>
-    <li><strong><a href="https://github.com/AvidCoder101/Harry-Potter-Quiz">Harry Potter Quiz</a></strong></li>
-    <li><strong><a href="https://github.com/AvidCoder101/Drawing-App">Drawing App</a></strong></li>
-    <li><strong><a href="https://github.com/AvidCoder101/Clock-App">Clock App</a></strong></li>
-  </ul>
-  <p>Check out more projects at <a href="https://github.com/CodingContributorsLair">CodingContributorsLair</a></p>
-
-  <h2>Inspiring Repositories</h2>
-  <ul>
-    <li><strong><a href="https://github.com/MakeContributions/markdown-dungeon">Markdown Dungeon - MakeContributions</a></strong></li>
-    <li><strong><a href="https://github.com/zero-to-mastery/resources">Resources - Zero To Mastery</a></strong></li>
-    <li><strong><a href="https://github.com/anuraghazra/github-readme-stats">GitHub Stats - Anuraghazra</a></strong></li>
-    <li><strong><a href="https://github.com/Jobream/List-of-Learning-Resources">List of Learning Resources - Jobream</a></strong></li>
-    <li><strong><a href="https://github.com/EddieHubCommunity/awesome-github-profiles">Awesome GitHub Profiles - EddieHubCommunity</a></strong></li>
+    <li><strong><a>Ulises2024</a></strong></li>
   </ul>
 
-  <h2>Organizations I've Contributed To</h2>
-  <p>
-    <a href="https://github.com/EddieHubCommunity"><img src="https://avatars.githubusercontent.com/u/66388388?s=88&v=4" height="50" width="50"></a>
-    <a href="https://github.com/zero-to-mastery"><img src="https://avatars.githubusercontent.com/u/35373879?s=60&v=4" height="50" width="50"></a>
-    <a href="https://github.com/CodingContributorsLair"><img src="https://avatars.githubusercontent.com/u/87652881?s=200&v=4" height="50" width="50"></a>
-    <a href="https://github.com/MakeContributions"><img src="https://avatars.githubusercontent.com/u/67384272?s=88&v=4" height="50" width="50"></a>
-    <a href="https://github.com/firstcontributions"><img src="https://avatars.githubusercontent.com/u/37713493?s=88&v=4" height="50" width="50"></a>
-    <a href="https://github.com/fnplus"><img src="https://avatars.githubusercontent.com/u/24355438?s=88&v=4" height="50" width="50"></a>
-    <a href="https://github.com/jobream"><img src="https://avatars.githubusercontent.com/u/68013560?s=88&v=4" height="50" width="50"></a>
-  </p>
+
 
   <h2>Languages & Tools</h2>
   <p>
@@ -90,11 +68,9 @@
   <img src="https://www.codewars.com/users/edu_Itis/badges/micro" width="200" alt="Codewars Badge">
 
   <h2>Thanks for Visiting! 🤓</h2>
-  <p>Feel free to fork and ⭐️ this repo!</p>
 
   <hr>
-  <p><em>Last Edited on: 31/08/2021</em></p>
-  <p>Credit: <a href="https://github.com/AvidCoder101">AvidCoder101</a></p>
+  <p><em>Last Edited on: 03/11/2024</em></p>
 
 </body>
 </html>
