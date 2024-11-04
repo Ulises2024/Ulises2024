@@ -22,7 +22,7 @@
   <div align="center">
     <br>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=70&width=800&height=120&lines=Hey!+It's+Ulises2024!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user" alt="Typing SVG">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=50&width=800&height=120&lines=Passionate+about+automation;and+data+analysis+🖥️📊;Tireless+explorer+of+new+technologies+and+tools+🛠️💡;Aspiring+creator+of+apps+and+websites+🚀" alt="Typing SVG">
     </a>
   </div>
 
