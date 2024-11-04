@@ -29,24 +29,51 @@
 
   <h2>Fun Facts About Me</h2>
   <ul>
-    <li><strong>I'm a HUGE Harry Potter fan ⚡🧙🏻‍♂️</strong></li>
-    <li><strong>Aspiring web and app developer 👩🏻‍💻</strong></li>
-    <li><strong>Passionate about science 🔬</strong></li>
-    <li><strong>Football enthusiast ⚽</strong></li>
+    <li><strong>Doodler in my free time ✏️🎨</strong></li>
+    <li><strong>Urban and nature photography enthusiast 📸🌆</strong></li>
+    <li><strong>Explorer of Korean and Japanese visual stories 🖌️🇰🇷🇯🇵</strong></li>
+    <li><strong>Hunter of epic tales in digital panels 📲📜</strong></li>
+    <li><strong>Fan of characters and plots with unexpected twists 🔄🤯</strong></li>
+    <li><strong>Avid reader of manhwas and webtoons 🎉📚</strong></li>
   </ul>
 
   <h2>GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ulises2024&show_icons=true&theme=radical" alt="GitHub Stats">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulises2024&theme=radical" alt="GitHub Streak">
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ulises2024" alt="Trophy">
-  </a>
+  <!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+   <tr border="none">
+    <td width="60%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ulises2024&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
+    </td>
+    <td width="40%" align="center">
+    </td>
+  </tr>
+  <tr border="none">
+    <td width="60%" align="center">
+       <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulises2024&theme=chartreuse-dark" alt="GitHub Streak">
+      </a>
+    </td>
+    <td width="40%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ulises2024&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+</table>
+<!--- stats (end) -->
 
-  <h2>My GitHub Contributions</h2>
-  <p>Check out this snake animation that shows my contributions:</p>
-  <img src="https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation">
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ulises2024&theme=chartreuse-dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+ 
 
   <h2>Notable Public Repositories</h2>
   <ul>
@@ -54,18 +81,19 @@
   </ul>
 
 
-
+  
   <h2>Languages & Tools</h2>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <!--tech stack icons-->
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=androidstudio,c,react,java,angular,autocad,py,bootstrap,css,html,js,django,mysql,sqlite,firebase,gtk,git,github,docker,fastapi,flask,jquery,postman,vscode,matlab,ai,ps&perline=12" />
+    </a>
   </p>
+  <br>
+<!-------------------------->
 
   <h2>Codewars Stats</h2>
-  <img src="https://www.codewars.com/users/edu_Itis/badges/micro" width="200" alt="Codewars Badge">
+  <img src="https://www.codewars.com/users/Ulises2024/badges/micro" width="200" alt="Codewars Badge">
 
   <h2>Thanks for Visiting! 🤓</h2>
 
