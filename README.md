@@ -102,7 +102,11 @@
   </p>        
   <!--- stats (end) -->
 
-  
+  <h2>Snake Animation</h2>
+  <div align="center">
+    <!-- Centrado de la animación -->
+    <img src="https://github.com/Ulises2024/Ulises2024/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" width="60%">
+  </div>
 
   <h2>Codewars Stats</h2>
   <img src="https://www.codewars.com/users/Ulises2024/badges/micro" width="200" alt="Codewars Badge">
