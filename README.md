@@ -26,7 +26,7 @@
     </a>
   </div>
 
-
+  
   <h2>Fun Facts About Me</h2>
   <ul>
     <li><strong>Doodler in my free time ✏️🎨</strong></li>
@@ -37,43 +37,16 @@
     <li><strong>Avid reader of manhwas and webtoons 🎉📚</strong></li>
   </ul>
 
-  <h2>GitHub Stats</h2>
-  <!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-   <tr border="none">
-    <td width="60%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ulises2024&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
-    </td>
-    <td width="40%" align="center">
-    </td>
-  </tr>
-  <tr border="none">
-    <td width="60%" align="center">
-       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulises2024&theme=chartreuse-dark" alt="GitHub Streak">
-      </a>
-    </td>
-    <td width="40%" align="center">
-      <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulises2024&layout=compact&&theme=chartreuse-dark"/>
-    </td>
-  </tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ulises2024&theme=chartreuse-dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
+ <br>
  
+ <h2 align="left">Our Innovation Journey: From Idea to Reality 🌐</h2>
+  <div align="center">
+    <a href="https://www.youtube.com/watch?v=OSWmhifQxzw" target="_blank">
+      <img src="https://img.youtube.com/vi/OSWmhifQxzw/0.jpg" alt="YouTube Video" width="80%" />
+    </a>
+  </div>
+
+  <br>
 
   <h2>Notable Public Repositories</h2>
   <ul>
@@ -91,6 +64,45 @@
   </p>
   <br>
 <!-------------------------->
+
+  <h2>GitHub Stats</h2>
+  <!--- stats & Trophy (start) -->
+  <p align="center">
+    <!--- stats (start) -->
+  <table align="center">
+     <tr border="none">
+      <td width="60%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ulises2024&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats">
+      </td>
+      <td width="40%" align="center">
+      </td>
+    </tr>
+    <tr border="none">
+      <td width="60%" align="center">
+         <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ulises2024&theme=chartreuse-dark" alt="GitHub Streak">
+        </a>
+      </td>
+      <td width="40%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulises2024&layout=compact&&theme=chartreuse-dark"/>
+      </td>
+    </tr>
+  </table>
+  <!--- stats (end) -->
+  
+  <!--- trophy (start) -->
+  <div align=center>
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+        <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ulises2024&theme=chartreuse-dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      </a>
+  </div>
+  <!--- trophy (start) -->
+  
+  
+  </p>        
+  <!--- stats (end) -->
+
+  
 
   <h2>Codewars Stats</h2>
   <img src="https://www.codewars.com/users/Ulises2024/badges/micro" width="200" alt="Codewars Badge">
