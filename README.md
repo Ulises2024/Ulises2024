@@ -56,7 +56,7 @@
       </a>
     </td>
     <td width="40%" align="center">
-      <img  align="center"  src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ulises2024&layout=compact)](https://github.com/Ulises2024/github-readme-stats)/>
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulises2024&layout=compact&&theme=chartreuse-dark"/>
     </td>
   </tr>
 </table>
