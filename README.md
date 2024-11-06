@@ -57,7 +57,7 @@
   
   <h2>Languages & Tools</h2>
   <!--tech stack icons-->
-  <p align="left">
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=androidstudio,c,react,java,angular,autocad,py,bootstrap,css,html,js,django,mysql,sqlite,firebase,gtk,git,github,docker,fastapi,flask,jquery,postman,vscode,matlab,ai,ps&perline=12" />
     </a>
@@ -96,13 +96,9 @@
         <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Ulises2024&theme=chartreuse-dark&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
       </a>
   </div>
-  <!--- trophy (start) -->
-  
-  
   </p>        
   <!--- stats (end) -->
   <div align="center">
-    <!-- Centrado de la animación -->
     <img src="https://github.com/Ulises2024/Ulises2024/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
   </div>
   <br>
