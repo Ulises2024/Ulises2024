@@ -84,7 +84,7 @@
         </a>
       </td>
       <td width="40%" align="center">
-        <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulises2024&layout=compact&&theme=chartreuse-dark"/>
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulises2024&size_weight=0.5&count_weight=0.5&theme=chartreuse-dark"/>
       </td>
     </tr>
   </table>
