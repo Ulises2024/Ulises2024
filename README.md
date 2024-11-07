@@ -27,14 +27,11 @@
   </div>
 
   
-  <h2>Fun Facts About Me</h2>
+  <h2>About Me</h2>
   <ul>
-    <li><strong>Doodler in my free time ✏️🎨</strong></li>
-    <li><strong>Urban and nature photography enthusiast 📸🌆</strong></li>
-    <li><strong>Explorer of Korean and Japanese visual stories 🖌️🇰🇷🇯🇵</strong></li>
-    <li><strong>Hunter of epic tales in digital panels 📲📜</strong></li>
-    <li><strong>Fan of characters and plots with unexpected twists 🔄🤯</strong></li>
-    <li><strong>Avid reader of manhwas and webtoons 🎉📚</strong></li>
+    <li><strong>Passionate about automation and data analysis 🖥️📊</strong></li>
+    <li><strong>Tireless explorer of new technologies and tools 🛠️💡</strong></li>
+    <li><strong>creator of apps and websites 🚀</strong></li>
   </ul>
 
  <br>
@@ -101,6 +98,18 @@
   <div align="center">
     <img src="https://github.com/Ulises2024/Ulises2024/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%">
   </div>
+
+  <h2>Fun Facts About Me</h2>
+  <ul>
+    <li><strong>Doodler in my free time ✏️🎨</strong></li>
+    <li><strong>Urban and nature photography enthusiast 📸🌆</strong></li>
+    <li><strong>Explorer of Korean and Japanese visual stories 🖌️🇰🇷🇯🇵</strong></li>
+    <li><strong>Hunter of epic tales in digital panels 📲📜</strong></li>
+    <li><strong>Fan of characters and plots with unexpected twists 🔄🤯</strong></li>
+    <li><strong>Avid reader of manhwas and webtoons 🎉📚</strong></li>
+  </ul>
+
+ <br>
   <h2>Codewars Stats</h2>
   <img src="https://www.codewars.com/users/Ulises2024/badges/micro" width="200" alt="Codewars Badge">
 
