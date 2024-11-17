@@ -56,7 +56,7 @@
   <!--tech stack icons-->
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=androidstudio,c,react,java,angular,autocad,py,bootstrap,css,html,js,django,mysql,sqlite,firebase,gtk,git,github,docker,fastapi,flask,jquery,postman,vscode,matlab,ai,ps&perline=12" />
+      <img src="https://skillicons.dev/icons?i=androidstudio,c,react,java,angular,autocad,py,bootstrap,css,html,js,django,mysql,sqlite,firebase,gtk,git,github,docker,Jupyter,fastapi,flask,jquery,postman,vscode,matlab,ai,ps&perline=12" />
     </a>
   </p>
   <br>
