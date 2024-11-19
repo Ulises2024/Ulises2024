@@ -46,9 +46,10 @@
   <br>
 
   <h2>Notable Public Repositories</h2>
-  <ul>
-    <li><strong><a>Ulises2024</a></strong></li>
-  </ul>
+<a href="https://github.com/Ulises2024/Patitas-WEB/tree/main">
+  <img src="https://raw.githubusercontent.com/Ulises2024/Patitas-WEB/main/source_readme/pantalla_principal_patitas.png" alt="Patitas-WEB">
+</a>
+
 
 
   
